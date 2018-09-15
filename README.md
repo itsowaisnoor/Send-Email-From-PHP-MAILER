@@ -1,5 +1,5 @@
 # Send-Email-From-PHP-MAILER
 
-# Extract the phpmailer and you are done.
+ Extract the phpmailer and you are done.
 
-# Use Enjoy!
+ Enjoy!
